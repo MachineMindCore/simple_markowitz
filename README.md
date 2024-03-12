@@ -45,3 +45,6 @@ pa.write_data('output.xlsx', 'sheet_name', [2, 1], stocks)
 ```
 
 
+## Optimal Portafolios
+
+![Optimals](/docs/bullet.png)
