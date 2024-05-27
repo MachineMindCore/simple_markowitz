@@ -1,7 +1,7 @@
 {
     "name": "simple_markowitz",
     "date": ["Sep/2020", "Nov/2020"],
-    "type": ["Data Science"],
+    "types": ["Data Science"],
     "techs": ["Python", "Numpy", "Pandas", "YahooFinanceAPI"],
     "description": "This financial Python package computes optimal portfolios based on Yahoo Finance data, grounded in Markowitz's Modern Portfolio Theory. It generates bullet plots for a set of assets and identifies the efficient frontier, highlighting the optimal portfolio family on the top edge line."
 }
